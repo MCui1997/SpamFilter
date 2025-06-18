@@ -114,7 +114,7 @@ TF-IDF(word, doc) = TF(word, doc) × IDF(word)
 ### Model Parameters
 
 **Training Configuration**:
-- Train/test split: 80/20 with stratification
+- Train/test split: 70/30 with stratification
 - Random state: 42 (reproducibility)
 - Naive Bayes alpha: 1.0 (Laplace smoothing)
 
@@ -185,7 +185,7 @@ Key parameters in `config.py`:
 
 ```python
 MODEL_CONFIG = {
-    'test_size': 0.2,           # 20% for testing
+    'test_size': 0.3,           # 30% for testing
     'random_state': 42,         # Reproducibility
     'naive_bayes_alpha': 1.0    # Laplace smoothing
 }
