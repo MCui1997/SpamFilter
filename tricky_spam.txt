@@ -1,0 +1,54 @@
+ham	Hey, are we still meeting for lunch tomorrow at 12:30? Let me know if you need to reschedule.
+spam	FREE! Win $1000 cash now! Click here immediately! Limited time offer! Call now!
+ham	The quarterly report is due next Friday. Please send me your department's data by Wednesday.
+spam	URGENT! Your account will be closed in 24 hours. Click this link to verify now!
+ham	Thanks for helping me move last weekend! Really appreciate it. Let's grab dinner soon.
+spam	Congratulations! You've won a $500 gift card! Text WINNER to 12345 to claim now!
+ham	This is a reminder that your dentist appointment is scheduled for Tuesday at 2 PM.
+spam	Get instant cash loan approval! No credit check required! Apply now!
+ham	Can you pick up milk on your way home? We're completely out.
+spam	Amazing weight loss pills! Lose 30 pounds in 30 days! Order now!
+ham	Special weekend sale at our electronics store! 20% off all phones and tablets.
+spam	You've been selected for a special offer! Call 1-800-SCAM-NOW to claim!
+ham	Important: Your subscription expires tomorrow. Please renew to avoid interruption.
+spam	Hot singles in your area want to meet you! Click here now!
+ham	Congratulations on winning employee of the month! You've earned a $100 bonus.
+spam	Make money from home! Earn $5000 per week working part time!
+ham	Hey can you lend me $50 until Friday? I'll pay you back when I get paid.
+spam	Your computer is infected! Download our antivirus software immediately!
+ham	Free delivery on your next order when you spend over $25. Use code FREEDEL.
+spam	Nigerian prince needs your help! Send $1000 and receive $1,000,000!
+ham	Your server backup failed. Click here to access admin panel and restart backup.
+spam	Limited time offer! Buy one get one free! Act now before it's too late!
+ham	You've been selected for our customer satisfaction survey. Complete to enter prize drawing.
+spam	Lose weight fast with this one weird trick! Doctors hate this secret!
+ham	Meeting rescheduled to 3pm due to client conflict. See you in conference room B.
+spam	WINNER! You've won our lottery! Send us your bank details to claim prize!
+ham	Great deal on concert tickets! Half price for students with valid ID.
+spam	Bankruptcy? Bad credit? We can help! Get approved for credit card today!
+ham	Your pizza order is ready for pickup. Thank you for choosing Tony's Pizza.
+spam	Work from home opportunity! No experience needed! Start earning today!
+ham	Flight delayed by 2 hours due to weather. New departure time is 8:45 PM.
+spam	Exclusive invitation! Join our VIP club and get rich quick!
+ham	Book club meeting moved to Thursday 7pm at Sarah's house. Bring snacks!
+spam	Alert! Suspicious activity on your account! Click here to secure it now!
+ham	Happy birthday! Hope you have a wonderful day. Let's celebrate this weekend.
+spam	Free iPhone! You're our 1000th visitor! Claim your prize within 24 hours!
+ham	Traffic is really bad on Highway 95. Take alternate route if possible.
+spam	Miracle cure discovered! End all pain forever with this natural supplement!
+ham	Grocery list: bread, eggs, milk, tomatoes, and pasta sauce for dinner tonight.
+spam	Investment opportunity! Double your money in 30 days guaranteed!
+ham	Weather forecast shows rain tomorrow. Don't forget your umbrella for work.
+spam	Dating site special! Find your soulmate today! 50% off premium membership!
+ham	Library books are due tomorrow. Please return or renew online to avoid fees.
+spam	Cash advance available! Get money deposited in your account within hours!
+ham	Soccer practice cancelled due to field conditions. Next practice is Thursday.
+spam	Secret to eternal youth revealed! Anti-aging cream that really works!
+ham	Your Amazon package has been delivered to your front door. Tracking: 12345.
+spam	Earn money taking surveys! $500 per hour from the comfort of your home!
+ham	Dinner reservation confirmed for 8pm at Milano Restaurant. Party of four.
+spam	Your lucky numbers for today! Play the lottery and win big money!
+ham	Class reunion planning committee meeting Tuesday 6pm at community center.
+spam	Viagra alternative! All natural enhancement pills! Discreet shipping!
+ham	Car inspection reminder: Your registration expires next month. Schedule appointment.
+spam	Credit repair service! Fix your credit score overnight! Guaranteed results!

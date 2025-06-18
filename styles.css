@@ -1,0 +1,91 @@
+/* Mobile App Style - Single Column Layout */
+
+/* Container: max 1000px width, centered */
+.main .block-container {
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 2rem;
+}
+
+/* All components constrained to max width */
+.stTextArea, .stFileUploader, .stButton, .stRadio, 
+.stMetric, .stAlert, .stMarkdown, .stSelectbox,
+.stHeader, .stTitle, .stSubheader {
+    max-width: 100%;
+}
+
+/* Center headers */
+h1, h2, h3 {
+    text-align: center;
+}
+
+/* Full width buttons */
+.stButton > button {
+    width: 100%;
+}
+
+/* Center metrics */
+[data-testid="metric-container"] {
+    text-align: center;
+    margin: 0.5rem 0;
+}
+
+[data-testid="stVerticalBlock"] {
+    max-width: 1000px;
+    margin: auto;
+}
+
+/* Consistent spacing between sections */
+.stDivider {
+    margin: 2rem 0;
+}
+
+/* Text areas consistent styling */
+.stTextArea textarea {
+    font-family: inherit;
+}
+
+/* File uploader styling */
+.stFileUploader {
+    margin: 1rem 0;
+}
+
+/* Radio buttons */
+.stRadio {
+    margin: 1rem 0;
+}
+
+/* Info boxes */
+.stInfo, .stSuccess, .stError, .stWarning {
+    margin: 1rem 0;
+}
+
+/* Mobile responsive */
+@media (max-width: 768px) {
+    .main .block-container {
+        padding: 1rem;
+        max-width: 100%;
+    }
+}
+
+/* Nice header styling */
+.app-header {
+    text-align: center;
+    padding: 2rem;
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    color: white;
+    border-radius: 15px;
+    margin-bottom: 2rem;
+    box-shadow: 0 8px 32px rgba(0, 0, 0, 0.1);
+}
+
+.app-header h1 {
+    font-size: 3rem;
+    margin-bottom: 0.5rem;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+}
+
+.app-header h3 {
+    font-weight: 300;
+    opacity: 0.9;
+}
