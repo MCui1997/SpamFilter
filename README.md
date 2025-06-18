@@ -2,6 +2,8 @@
 
 A machine learning-powered spam detection application built with Streamlit and scikit-learn. This project demonstrates automated spam classification using Naive Bayes algorithm with TF-IDF feature extraction.
 
+**🚀 [Live Demo](https://spamfilter.streamlit.app/)**
+
 ## Quick Start
 
 ### Prerequisites
