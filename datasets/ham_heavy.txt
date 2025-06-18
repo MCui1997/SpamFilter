@@ -1,0 +1,20 @@
+ham	Hi John, hope you're having a good week so far
+ham	Don't forget about the team meeting at 3pm today
+ham	Thanks for the birthday wishes! Had a great celebration
+ham	Can you send me the quarterly report when you get a chance?
+ham	Running about 10 minutes late for our coffee meeting
+ham	The kids loved the zoo trip. Thanks for the recommendation!
+ham	Please review the attached contract and let me know your thoughts
+ham	Happy anniversary! Hope you two have a wonderful dinner tonight
+ham	Flight got delayed but should be home by 8pm as planned
+ham	Great presentation today. The client seemed really impressed
+ham	Mom called and wants to know if you're coming for Sunday dinner
+ham	The weather forecast looks good for the hiking trip this weekend
+ham	Finished reading that book you recommended. Really enjoyed it!
+ham	Doctor appointment went well. Everything looks normal
+ham	Car inspection passed without any issues. Good for another year
+ham	Thanks for helping me move last weekend. I owe you dinner!
+ham	The new restaurant downtown has excellent pasta dishes
+ham	Conference call went smoothly. All stakeholders are on board
+spam	FREE! Win $1000 cash! Click here to claim your prize now!
+spam	URGENT: Your account will be suspended unless you verify today

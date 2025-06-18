@@ -1,0 +1,20 @@
+spam	FREE money! Click NOW to claim your $5000 prize!
+spam	URGENT! Your account will be closed unless you verify immediately
+spam	Congratulations! You've won a FREE iPhone! Click here to claim
+spam	Limited time offer! Get rich quick with this amazing opportunity
+spam	ALERT: Suspicious activity detected. Click to secure your account
+spam	Win BIG! Play our casino games and earn thousands today!
+spam	Your loan has been approved! Click here for instant cash
+spam	STOP paying high prices! 90% discount on everything today only
+spam	Make $500 per day working from home! No experience needed
+spam	FINAL NOTICE: Your refund is pending. Click to claim now
+spam	Hot singles in your area want to meet you tonight!
+spam	You've been selected for our exclusive VIP program! Join now
+spam	BREAKING: New cryptocurrency will make you rich overnight
+spam	Your package is being returned to sender. Click to redirect
+spam	WANTED: People to lose 30 pounds in 30 days! Try our miracle pill
+spam	Your subscription will auto-renew unless you cancel TODAY
+spam	Nigerian prince needs your help transferring millions. Share profits!
+spam	Credit card pre-approved! No credit check required. Apply now
+ham	Thanks for sending the meeting notes. I'll review them tonight
+ham	Can we reschedule our lunch to next Tuesday instead?
