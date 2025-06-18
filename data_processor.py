@@ -33,10 +33,19 @@ def preprocess_text(text):
     if pd.isna(text):
         return ""
     
+    # Convert everything to lowercase for consistency
     text = text.lower()
+    
+    # Remove all URLs (http, https, www) - they don't help classify spam vs ham
     text = re.sub(r'http\S+|www\S+|https\S+', '', text, flags=re.MULTILINE)
+    
+    # Remove HTML tags like <div>, <p> - focus on actual text content
     text = re.sub(r'<.*?>', '', text)
+    
+    # Remove numbers, punctuation, special chars - keep only letters and spaces
     text = re.sub(r'[^a-zA-Z\s]', '', text)
+    
+    # Clean up extra whitespace and normalize spacing
     text = ' '.join(text.split())
     
     return text

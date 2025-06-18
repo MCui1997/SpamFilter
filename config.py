@@ -5,11 +5,15 @@ Machine learning model parameters for training and evaluation.
 Controls train/test split, random seed for reproducibility, and Naive Bayes smoothing.
 """
 MODEL_CONFIG = {
-    'test_size': 0.3,
-    'random_state': 42,
-    'naive_bayes_alpha': 1.0
+    # 30% reserved for testing - ensures model works on unseen data, not just memorized training examples
+    'test_size': 0.3,           
+    
+    # Fixed seed ensures same train/test split every time for reproducible results
+    'random_state': 42,         
+    
+    # Laplace smoothing - adds small count to prevent zero probabilities when word never seen in a class
+    'naive_bayes_alpha': 1.0    
 }
-
 """
 TF-IDF vectorization parameters for text feature extraction.
 Defines vocabulary size, n-gram range, and frequency thresholds.
